@@ -1,7 +1,6 @@
 <p align="center">
 
-<img align="left" src=/><img src="<img width="736" height="736" alt="a7e4d294ee282e9450074a4b756d594f
-"/><br>
+<img align="left" src=/><img src="<img width="736" height="736" alt="a7e4d294ee282e9450074a4b756d594f"/><br>
 </p>
   <h3 align="center">
 ${{\color{#2C5EAD}\texttt{PJ cutie ՞. .՞𐦯}}}$</h3>
