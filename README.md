@@ -1,6 +1,7 @@
 <p align="center">
 
-<img align="left" src=/><img src="https://64.media.tumblr.com/eff57582659a5dc1f3cff8d6fa1e1297/1bb9f39c1cc82c91-8f/s2048x3072/10ba2d48180927ffd650288f931eb769e5fecc78.pnj" width="300px"><img align="right"/><br>
+<img align="left" src=/><img src="<img width="736" height="736" alt="a7e4d294ee282e9450074a4b756d594f" src="https://github.com/user-attachments/assets/62f16c9e-2514-4fb3-9d6a-8ae7300ee84e" />
+"/><br>
 </p>
   <h3 align="center">
 ${{\color{#2C5EAD}\texttt{PJ cutie ՞. .՞𐦯}}}$</h3>
