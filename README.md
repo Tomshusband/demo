@@ -1,6 +1,6 @@
 <p align="center">
 
-<img align="[left" src="https://i.pinimg.com/736x/d2/14/bb/d214bb63abfb1f315d1c95aad01b89d7.jpg" height="210px" alt="art commission"/><img src="https://i.pinimg.com/736x/a7/e4/d2/a7e4d294ee282e9450074a4b756d594f.jpg" width="300px"><img align="right" src="[https://i.pinimg.com/736x/b2/a5/b0/b2a5b0e35439b3e4b54b0858d064936f.jpg" height="210px" alt="art commission"/><br>
+<img align="[left" src="https://i.pinimg.com/736x/b2/a5/b0/b2a5b0e35439b3e4b54b0858d064936f.jpg" height="210px" alt="art commission"/><img src="https://i.pinimg.com/736x/a7/e4/d2/a7e4d294ee282e9450074a4b756d594f.jpg" width="300px"><img align="right" src="[https://i.pinimg.com/736x/b2/a5/b0/b2a5b0e35439b3e4b54b0858d064936f.jpg" height="210px" alt="T"/><br>
 </p>
   <h3 align="center">
 ${{\color{#2C5EAD}\texttt{PJ cutie ՞. .՞𐦯}}}$</h3>
