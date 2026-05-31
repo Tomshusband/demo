@@ -15,7 +15,7 @@ ${{\color{#C4E2F5}\texttt{ᶻ 𝗓 𐰁 .ᐟ}}}$
 ${{\color{#2C5EAD}\texttt{⠀⠀　she⠀,⠀him⠀⠀　18}}}$<br>
 ${{\color{#2C5EAD}\texttt{越南语⠀　i do draw but not posting⠀　shipper }}}$<br>
   <h3 align="center">
-${{\color{#2C5EAD}\texttt{⠀⠀thanks alot for visiting }}}$</h3>
+${{\color{#111844}\texttt{⠀⠀▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀ }}}$</h3>
 
 <p align="center">  
 <img src="https://komarev.com/ghpvc/?username=nightmareofy0u&style=flat-square&color=c22323&style=plastic&label=󠁪󠁪󠁝󠁝󠁵󠁵VICTIMS" alt=""/>
