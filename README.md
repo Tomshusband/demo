@@ -1,7 +1,7 @@
 <p align="center">
 
-<img align="left" src=/><img src="<img width="736" height="736" alt="(https://i.pinimg.com/736x/a7/e4/d2/a7e4d294ee282e9450074a4b756d594f.jpg)"/><br>
-</p>
+<img align="left" src="https://(https://i.pinimg.com/736x/a7/e4/d2/a7e4d294ee282e9450074a4b756d594f.jpg)" height="210px"
+
   <h3 align="center">
 ${{\color{#2C5EAD}\texttt{PJ cutie ՞. .՞𐦯}}}$</h3>
 
