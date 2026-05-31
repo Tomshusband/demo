@@ -18,4 +18,4 @@ ${{\color{#2C5EAD}\texttt{⠀⠀thanks alot for visiting }}}$</h3>
 <img src="https://komarev.com/ghpvc/?username=nightmareofy0u&style=flat-square&color=c22323&style=plastic&label=󠁪󠁪󠁝󠁝󠁵󠁵VICTIMS" alt=""/>
 </p>
 
-<p align="center" dir="auto"> 
+ 
