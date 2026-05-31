@@ -19,5 +19,3 @@ ${{\color{#2C5EAD}\texttt{⠀⠀thanks alot for visiting }}}$</h3>
 </p>
 
 <p align="center" dir="auto"> 
-
-<table width="520" border="1" cellpadding="10" cellspacing="0" align="center">
