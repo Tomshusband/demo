@@ -9,7 +9,6 @@
 ${{\color{#1591DC}\texttt{▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀}}}$</h3>
 
 ${{\color{#111844}\texttt{PJ cutie ՞. .՞𐦯}}}$</h3>
-
 <p align="center">
 ${{\color{#111844}\texttt{ᶻ 𝗓 𐰁 .ᐟ}}}$
   
