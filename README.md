@@ -3,7 +3,7 @@
 <p align="center">
 
   
-<img /><img align="center" src="https://i.pinimg.com/736x/a7/e4/d2/a7e4d294ee282e9450074a4b756d594f.jpg" width="300px"><img /><br>
+<img align="left" src="https://64.media.tumblr.com/2d9e7e4467118aee2ac5ed7f237fb5c1/500a09e1e4245351-f5/s2048x3072/be3f484323698cf468410da46c2cf506fa55900d.pnj" height="210px" <img /><img align="center" src="https://i.pinimg.com/736x/a7/e4/d2/a7e4d294ee282e9450074a4b756d594f.jpg" width="300px"><img /><br>
 </p>
   <h3 align="center">
 ${{\color{#2C5EAD}\texttt{PJ cutie ՞. .՞𐦯}}}$</h3>
