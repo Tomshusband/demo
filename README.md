@@ -10,7 +10,7 @@ ${{\color{#C4E2F5}\texttt{ᶻ 𝗓 𐰁 .ᐟ}}}$
   
 <p align="center">
 ${{\color{#2C5EAD}\texttt{⠀⠀　she⠀,⠀him⠀⠀　18}}}$<br>
-${{\color{#2C5EAD}\texttt{越南语⠀　i do draw but not posting⠀　shipper﹗}}}$<br>
+${{\color{#2C5EAD}\texttt{越南语⠀　i do draw but not posting⠀　shipper }}}$<br>
   <h3 align="center">
 ${{\color{#2C5EAD}\texttt{⠀⠀thanks alot for visiting }}}$</h3>
 
