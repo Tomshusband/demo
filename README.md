@@ -1,7 +1,7 @@
 <p align="center">
 
-<img align="left" src="https://(https://i.pinimg.com/736x/a7/e4/d2/a7e4d294ee282e9450074a4b756d594f.jpg)" height="210px"
-
+<img align="left" src="https://64.media.tumblr.com/2d9e7e4467118aee2ac5ed7f237fb5c1/500a09e1e4245351-f5/s2048x3072/be3f484323698cf468410da46c2cf506fa55900d.pnj" height="210px" alt="art commission"/><img src="https://64.media.tumblr.com/eff57582659a5dc1f3cff8d6fa1e1297/1bb9f39c1cc82c91-8f/s2048x3072/10ba2d48180927ffd650288f931eb769e5fecc78.pnj" width="300px"><img align="right" src="https://64.media.tumblr.com/d074a41ff625db05a1338d6442480de3/500a09e1e4245351-e4/s2048x3072/b1229fcf02523f3ec7761aeeed17a8711e6eb05c.pnj" height="210px" alt="art commission"/><br>
+</p>
   <h3 align="center">
 ${{\color{#2C5EAD}\texttt{PJ cutie ՞. .՞𐦯}}}$</h3>
 
