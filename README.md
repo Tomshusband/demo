@@ -8,7 +8,7 @@
   <h3 align="center">
 ${{\color{#1591DC}\texttt{▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀}}}$</h3>
 
-${{\color{#111844}\texttt{PJ cutie ՞. .՞𐦯}}}$</h3>
+
 <p align="center">
 ${{\color{#111844}\texttt{ᶻ 𝗓 𐰁 .ᐟ}}}$
   
@@ -16,7 +16,7 @@ ${{\color{#111844}\texttt{ᶻ 𝗓 𐰁 .ᐟ}}}$
 ${{\color{#111844}\texttt{⠀⠀　she⠀,⠀him⠀⠀　18}}}$<br>
 ${{\color{#111844}\texttt{越南语⠀　i do draw but not posting⠀　shipper }}}$<br>
   <h3 align="center">
-${{\color{#1591DC}\texttt{⠀⠀▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀ }}}$</h3>
+${{\color{#1591DC}\texttt{⠀⠀PJ cutie ՞. .՞𐦯 }}}$</h3>
 
 <p align="center">  
 
