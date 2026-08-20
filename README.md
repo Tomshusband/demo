@@ -11,7 +11,7 @@ ${{\color{#1591DC}\texttt{ᶻ 𝗓 𐰁 .ᐟ}}}$
   
 <p align="center">
 ${{\color{#1591DC}\texttt{⠀⠀　he⠀,⠀him⠀⠀　18}}}$<br>
-${{\color{#1591DC}\texttt{越南语⠀　i do draw a lot⠀　shipper }}}$<br>
+${{\color{#1591DC}\texttt{越南语⠀　i do draw a lot⠀　🏳️‍⚧️ }}}$<br>
   <h3 align="center">
 ${{\color{#1591DC}\texttt{⠀⠀zyo baobeii ՞. .՞𐦯 }}}$</h3>
 
